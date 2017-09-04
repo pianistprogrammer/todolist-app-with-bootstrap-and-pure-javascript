@@ -42,7 +42,7 @@ ul li:hover {
 }
 
 /* When clicked on, add a background color and strike out text */
-ul li.checked {
+ul  li.checked {
   background: #a396b1;
   color: #fff;
   font-style: italic;
